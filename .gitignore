@@ -1,0 +1,21 @@
+# SSH Keys
+*.key
+*.key.pub
+*.pem
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Claude Code internal files
+.claude/
+
+# Temp files
+claude_out.txt
+
+# Local bot
+bot.py
+start_bot.bat
